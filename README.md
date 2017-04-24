@@ -1,3 +1,5 @@
+# ONLY MAINTAINING THIS FORK UNTIL https://github.com/uken/fluent-plugin-elasticsearch IS UPDATED TO v0.14
+
 # Fluent::Plugin::Elasticsearch, a plugin for [Fluentd](http://fluentd.org)
 
 [![Gem Version](https://badge.fury.io/rb/fluent-plugin-elasticsearch.png)](http://badge.fury.io/rb/fluent-plugin-elasticsearch)
